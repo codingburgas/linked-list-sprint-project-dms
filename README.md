@@ -5,27 +5,23 @@
     <p>👥 Keep your historical events organised!</p>
     <p>🖥️ Can use everywhere.</p>
     <p>💡 Helpful and easy to use. </p>
-      <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcodingburgas%2Flinked-list-sprint-project-dms&label=Visitors&labelColor=%2326215e&countColor=%231c1844&labelStyle=upper">
 </div>
 </br>
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-closed-raw/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/codingburgas/linked-list-sprint-project-dms">
+  <img alt="GitHub language count" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
+  <img alt="GitHub last commit" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
+  <img alt="GitHub commit activity (branch)" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
+  <img alt="GitHub Issues or Pull Requests" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
+  <img alt="GitHub commit activity (branch)" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
 </div>
 <br>
 
 # 📚 About
-### 
-# ❓ How does it work?
-### 
+### We present you our console application, with which you can insert, delete, search and even edit whatever historical events you have inserted. You may use it for studying, you may use it just for keeping track of them or maybe you're just a history lover, who likes to have everything organised.
 ### First we clone the repository 
 <pre>git clone https://github.com/codingburgas/linked-list-sprint-project-dms.git</pre>
 ### After that we open the project and run it.
-# 💻 Languages-Frameworks-Tools
-## - Design
+
 <br>
 
 
@@ -43,11 +39,11 @@
 
 # 📁 Documents
 ### Code & Team Documentation
-  - [Documentation]()
+  - [Documentation](https://github.com/codingburgas/linked-list-sprint-project-dms/blob/main/docs/DMS-Documentation.docx)
   - [Doxygen Documentation]()
 
 ### Presenting
-  - [Presentation]()
+  - [Presentation](https://github.com/codingburgas/linked-list-sprint-project-dms/blob/main/docs/DMS-Presentation.pptx)
 
 # 👥 Team
 
