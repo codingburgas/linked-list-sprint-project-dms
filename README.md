@@ -6,15 +6,7 @@
     <p>🖥️ Can use everywhere.</p>
     <p>💡 Helpful and easy to use. </p>
 </div>
-</br>
-<div align="center">
-  <img alt="GitHub language count" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub last commit" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub commit activity (branch)" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub Issues or Pull Requests" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
-  <img alt="GitHub commit activity (branch)" src="https://github.com/codingburgas/linked-list-sprint-project-dms">
-</div>
-<br>
+
 
 # 📚 About
 ### We present you our console application, with which you can insert, delete, search and even edit whatever historical events you have inserted. You may use it for studying, you may use it just for keeping track of them or maybe you're just a history lover, who likes to have everything organised.
