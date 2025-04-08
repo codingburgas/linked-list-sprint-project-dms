@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\UserInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -12,23 +13,41 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> e4f11ec4cdd14843042ed566b4721ebf5487bf2c
       "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\UserInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> e4f11ec4cdd14843042ed566b4721ebf5487bf2c
       "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AF50B77-816F-40ED-B48D-35194F12C6AC}|timelist\\timelist.vcxproj|solutionrelative:timelist\\UserInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> e4f11ec4cdd14843042ed566b4721ebf5487bf2c
     }
   ],
   "DocumentGroupContainers": [
@@ -38,25 +57,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> e4f11ec4cdd14843042ed566b4721ebf5487bf2c
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Database.h",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.h",
               "RelativeDocumentMoniker": "timelist\\Database.h",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.h",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.h",
               "RelativeToolTip": "timelist\\Database.h",
+<<<<<<< HEAD
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwCsAAAAUAAAA",
+=======
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCsAAAAUAAAAAAAAAA==",
+>>>>>>> e4f11ec4cdd14843042ed566b4721ebf5487bf2c
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-07T17:58:55.528Z",
               "EditorCaption": ""
@@ -65,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Event.h",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.h",
               "RelativeDocumentMoniker": "timelist\\Event.h",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.h",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.h",
               "RelativeToolTip": "timelist\\Event.h",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -77,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserInterface.h",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.h",
               "RelativeDocumentMoniker": "timelist\\UserInterface.h",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.h",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.h",
               "RelativeToolTip": "timelist\\UserInterface.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAQwCUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -89,22 +112,21 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserInterface.cpp",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.cpp",
               "RelativeDocumentMoniker": "timelist\\UserInterface.cpp",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.cpp",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\UserInterface.cpp",
               "RelativeToolTip": "timelist\\UserInterface.cpp",
               "ViewState": "AQIAAFEAAAAAAAAAAAAAAGEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T17:57:40.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T17:57:40.725Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Event.cpp",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.cpp",
               "RelativeDocumentMoniker": "timelist\\Event.cpp",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.cpp",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Event.cpp",
               "RelativeToolTip": "timelist\\Event.cpp",
               "ViewState": "AQIAACIAAAAAAAAAAAAQwDsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -114,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\main.cpp",
               "RelativeDocumentMoniker": "timelist\\main.cpp",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\main.cpp",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\main.cpp",
               "RelativeToolTip": "timelist\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -126,14 +148,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Database.cpp",
-              "DocumentMoniker": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.cpp",
               "RelativeDocumentMoniker": "timelist\\Database.cpp",
-              "ToolTip": "C:\\Users\\Mi\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.cpp",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\linked-list-sprint-project-dms\\timelist\\timelist\\Database.cpp",
               "RelativeToolTip": "timelist\\Database.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T17:50:05.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T17:50:05.371Z"
             }
           ]
         }
