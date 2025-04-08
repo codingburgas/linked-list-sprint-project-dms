@@ -12,7 +12,6 @@ void UserInterface::run() {
 
     // Try to load existing database
     if (!db.loadFromFile()) {
-        cout << "No existing database found or error loading database." << endl;
         cout << "Would you like to load sample data? (y/n): ";
         char choice;
         cin >> choice;
@@ -81,12 +80,12 @@ void UserInterface::run() {
         }
     }
 
-    cout << "Thank you for using the Historical Events Database. Goodbye!" << endl;
+    cout << "Thank you for using the PastPort . Goodbye!" << endl;
 }
 
 void UserInterface::displayMainMenu() const {
     cout << "=======================================" << endl;
-    cout << "    HISTORICAL EVENTS DATABASE" << endl;
+    cout << "    PastPort " << endl;
     cout << "=======================================" << endl;
     cout << "1. View All Events" << endl;
     cout << "2. Search by Name" << endl;
@@ -95,8 +94,8 @@ void UserInterface::displayMainMenu() const {
     cout << "5. Add New Event" << endl;
     cout << "6. Modify Event" << endl;
     cout << "7. Delete Event" << endl;
-    cout << "8. Load Database from File" << endl;
-    cout << "9. Save Database to File" << endl;
+    cout << "8. Load Event from File" << endl;
+    cout << "9. Save Event to File" << endl;
     cout << "0. Exit" << endl;
     cout << "=======================================" << endl;
     cout << "Events in database: " << db.getEventCount() << endl;

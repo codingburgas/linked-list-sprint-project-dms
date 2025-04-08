@@ -1,10 +1,5 @@
-﻿  Database.cpp
-  Event.cpp
-C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\Event.cpp(52,33): warning C4101: 'e': unreferenced local variable
-  main.cpp
-  UserInterface.cpp
-C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\UserInterface.cpp(121,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\UserInterface.cpp(281,33): warning C4101: 'e': unreferenced local variable
-C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\UserInterface.cpp(442,33): warning C4101: 'e': unreferenced local variable
-  Generating Code...
+﻿  UserInterface.cpp
+C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\UserInterface.cpp(120,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\UserInterface.cpp(280,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Mi\linked-list-sprint-project-dms\timelist\timelist\UserInterface.cpp(441,33): warning C4101: 'e': unreferenced local variable
   timelist.vcxproj -> C:\Users\Mi\linked-list-sprint-project-dms\timelist\x64\Debug\timelist.exe
